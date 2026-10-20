@@ -9,3 +9,6 @@ out
 # Phase 1 audit binaries (≈111 MB): kept locally, not in the repo
 docs/source-audit/assets/
 docs/source-audit/screenshots/
+
+.vercel
+.env*
