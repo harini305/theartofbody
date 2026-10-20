@@ -1,0 +1,56 @@
+SOURCE: https://www.theartofbody.com/book
+VIEWPORT: mobile (390x844 iPhone UA (Wix renders 320px mobile layout))
+CAPTURED: 2026-10-19 via headless Chrome; visible innerText of #PAGES_CONTAINER (header/footer excluded)
+----------------------------------------------------------------------
+BOOK A SESSION
+
+info@theartofbody.com
+
+pilates@theartofbody.com
+
+SMS / Whatsapp or Call:+62 (0) 878 3911 2400
+
+Pilates Private Class
+
+pilates
+
+55 min
+
+750.000 Rupiah Indonesia
+
+Rp 750.000
+
+Request to Book
+Pilates Semi-private Class
+
+pilates semi-private class
+
+55 min
+
+400.000 Rupiah Indonesia
+
+Rp 400.000
+
+Request to Book
+Bowen Technique Session
+
+Free your body with Bowen Technique
+
+55 min
+
+1.200.000 Rupiah Indonesia
+
+Rp 1.200.000
+
+Request to Book
+Personal Training
+
+Bespoke Fitness Program
+
+55 min
+
+800.000 Rupiah Indonesia
+
+Rp 800.000
+
+Request to Book

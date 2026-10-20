@@ -1,0 +1,128 @@
+[
+ {
+  "page": "/pilates",
+  "question": "What is STOTT Pilates?",
+  "answer": "STOTT Pilates is a contemporary approach to the original exercise method pioneered by Joseph Pilates. It incorporates modern exercise science and rehabilitation principles, focusing on core stability, proper spine alignment and functional movement.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/pilates",
+  "question": "How many people are in a group class?",
+  "answer": "We keep classes to a maximum of 3 people to ensure you receive personal attention and correct technique guidance throughout every session.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/pilates",
+  "question": "Do I need experience to join?",
+  "answer": "No experience needed. All levels are welcome. Your first session includes a consultation to assess your posture, identify imbalances and create a personalised program just for you.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/pilates",
+  "question": "Where are you located?",
+  "answer": "We are located at Jalan Mertanadi, Kerobokan, in the heart of Seminyak, Bali. Easy access from Canggu (15 mins), Legian (10 mins) and Oberoi (walking distance).",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/online-training",
+  "question": "How does an online Pilates class work?",
+  "answer": "We connect via Zoom/Whatsapp at your scheduled time. Your instructor can see you clearly, correct your form in real time and guide you through your personalised program just as if you were in the studio.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/online-training",
+  "question": "Do I need Pilates equipment at home?",
+  "answer": "No equipment is needed for most sessions. We design programs specifically for home practice using just your body weight and a mat.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/online-training",
+  "question": "What time zones do you work with?",
+  "answer": "We work with clients globally and offer flexible scheduling. Based in Bali (WITA, UTC+8), we can accommodate most time zones with morning and evening slots.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/online-training",
+  "question": "I've never done Pilates before - can I still join online?",
+  "answer": "Absolutely. We recommend starting with a private session so we can assess your posture, explain the fundamentals and create a program tailored to you.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/online-training",
+  "question": "I visited your studio in Bali - can I continue online when I return home?",
+  "answer": "Yes! Many of our clients continue their practice online after returning home. It's a seamless transition and we already know your body and goals.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/bowen-therapy-1",
+  "question": "How many sessions will I need?",
+  "answer": "Most clients notice significant improvement within 2-3 sessions. Unlike ongoing massage therapy, Bowen often produces lasting results in fewer sessions.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/bowen-therapy-1",
+  "question": "What conditions does Bowen Therapy help?",
+  "answer": "Back pain, neck and shoulder tension, sports injuries, sciatica, migraines, stress and anxiety, digestive issues, and general body stiffness.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/bowen-therapy-1",
+  "question": "Do I need to undress?",
+  "answer": "No. Bowen Therapy is performed through light, loose clothing making it comfortable and accessible for everyone.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/bowen-therapy-1",
+  "question": "Can I combine Bowen with Pilates?",
+  "answer": "Absolutely. Many clients combine both for outstanding results - Bowen releases tension and resets the body while Pilates builds strength and correct movement patterns.",
+  "status": "question and answer present"
+ },
+ {
+  "page": "/pilates-bali",
+  "question": "I have never done Pilates before. What is the best way for me to get started?",
+  "answer": null,
+  "status": "QUESTION ONLY - no answer text exists in the source HTML; not an accordion (click test changed nothing)"
+ },
+ {
+  "page": "/pilates-bali",
+  "question": "I have recently been injured and was recommended to do rehabilitation. How do I know this is what I need to rehabilitate?",
+  "answer": null,
+  "status": "QUESTION ONLY - no answer text exists in the source HTML; not an accordion (click test changed nothing)"
+ },
+ {
+  "page": "/pilates-bali",
+  "question": "I have chronic aches and pains. Can Pilates help me?",
+  "answer": null,
+  "status": "QUESTION ONLY - no answer text exists in the source HTML; not an accordion (click test changed nothing)"
+ },
+ {
+  "page": "/pilates-bali",
+  "question": "How frequently can I do Pilates?",
+  "answer": null,
+  "status": "QUESTION ONLY - no answer text exists in the source HTML; not an accordion (click test changed nothing)"
+ },
+ {
+  "page": "/pilate-studio-bali",
+  "question": "I have never done Pilates before. What is the best way for me to get started?",
+  "answer": null,
+  "status": "QUESTION ONLY - no answer text exists in the source HTML; not an accordion (click test changed nothing)"
+ },
+ {
+  "page": "/pilate-studio-bali",
+  "question": "I have recently been injured and was recommended to do rehabilitation. How do I know this is what I need to rehabilitate?",
+  "answer": null,
+  "status": "QUESTION ONLY - no answer text exists in the source HTML; not an accordion (click test changed nothing)"
+ },
+ {
+  "page": "/pilate-studio-bali",
+  "question": "I have chronic aches and pains. Can Pilates help me?",
+  "answer": null,
+  "status": "QUESTION ONLY - no answer text exists in the source HTML; not an accordion (click test changed nothing)"
+ },
+ {
+  "page": "/pilate-studio-bali",
+  "question": "How frequently can I do Pilates?",
+  "answer": null,
+  "status": "QUESTION ONLY - no answer text exists in the source HTML; not an accordion (click test changed nothing)"
+ }
+]

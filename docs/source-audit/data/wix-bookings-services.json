@@ -1,0 +1,279 @@
+[
+ {
+  "name": "Pilates Private Class",
+  "tagLine": "pilates",
+  "description": "Postural analysis, basic principles of pilates, One on One consultation. Or just straight out Core stability programs..  You choose..",
+  "type": "APPOINTMENT",
+  "defaultCapacity": 1,
+  "hidden": false,
+  "sortOrder": 0,
+  "createdDate": "2022-07-30T10:10:22.596Z",
+  "updatedDate": "2026-10-15T10:18:59.179Z",
+  "price": {
+   "value": "750000",
+   "currency": "IDR"
+  },
+  "paymentOptions": {
+   "online": false,
+   "inPerson": true,
+   "deposit": false,
+   "pricingPlan": false
+  },
+  "onlineBooking": {
+   "enabled": true,
+   "requireManualApproval": true
+  },
+  "image": {
+   "id": "72d608_619ce835e59f462690ba649320ae0b36~mv2_d_2100_2800_s_2.jpg",
+   "url": "72d608_619ce835e59f462690ba649320ae0b36~mv2_d_2100_2800_s_2.jpg",
+   "height": 2800,
+   "width": 2100,
+   "filename": "72d608_619ce835e59f462690ba649320ae0b36~mv2_d_2100_2800_s_2.jpg"
+  },
+  "category": "OUR OFFERINGS",
+  "urls": {
+   "servicePage": {
+    "relativePath": "/service-page/pilates-private-class",
+    "url": "https://www.theartofbody.com/service-page/pilates-private-class"
+   },
+   "bookingPage": {
+    "relativePath": "/booking-calendar/pilates-private-class",
+    "url": "https://www.theartofbody.com/booking-calendar/pilates-private-class"
+   },
+   "calendarPage": {
+    "relativePath": "/booking-calendar/pilates-private-class",
+    "url": "https://www.theartofbody.com/booking-calendar/pilates-private-class"
+   }
+  },
+  "slugs": [
+   "pilates-private-class",
+   "pilates-private-class",
+   "pilates-class",
+   "acupuncture"
+  ],
+  "locations": [
+   "Jalan Mertanadi"
+  ],
+  "staff": [
+   "Faz"
+  ],
+  "schedule": {
+   "durations": [
+    {
+     "minutes": 55
+    }
+   ],
+   "sessionDurations": [
+    55
+   ],
+   "timeBetweenSessions": 5
+  }
+ },
+ {
+  "name": "Pilates Semi-private Class",
+  "tagLine": "pilates semi-private class",
+  "description": "Classes of no more than four, combination of matt and machine to get the best complete core conditioning.",
+  "type": "APPOINTMENT",
+  "defaultCapacity": 1,
+  "hidden": false,
+  "sortOrder": 1,
+  "createdDate": "2022-07-03T05:05:10.682Z",
+  "updatedDate": "2026-10-18T02:21:24.766Z",
+  "price": {
+   "value": "400000",
+   "currency": "IDR"
+  },
+  "paymentOptions": {
+   "online": false,
+   "inPerson": true,
+   "deposit": false,
+   "pricingPlan": false
+  },
+  "onlineBooking": {
+   "enabled": true,
+   "requireManualApproval": true
+  },
+  "image": {
+   "id": "72d608_5a8b7c8a101b41ea8b848a1540c72b2c~mv2_d_1365_2048_s_2.jpg",
+   "url": "72d608_5a8b7c8a101b41ea8b848a1540c72b2c~mv2_d_1365_2048_s_2.jpg",
+   "height": 2048,
+   "width": 1365,
+   "filename": "72d608_5a8b7c8a101b41ea8b848a1540c72b2c~mv2_d_1365_2048_s_2.jpg"
+  },
+  "category": "OUR OFFERINGS",
+  "urls": {
+   "servicePage": {
+    "relativePath": "/service-page/pilates-semi-private-class",
+    "url": "https://www.theartofbody.com/service-page/pilates-semi-private-class"
+   },
+   "bookingPage": {
+    "relativePath": "/booking-calendar/pilates-semi-private-class",
+    "url": "https://www.theartofbody.com/booking-calendar/pilates-semi-private-class"
+   },
+   "calendarPage": {
+    "relativePath": "/booking-calendar/pilates-semi-private-class",
+    "url": "https://www.theartofbody.com/booking-calendar/pilates-semi-private-class"
+   }
+  },
+  "slugs": [
+   "pilates-semi-private-class",
+   "pilates-semi-private-class",
+   "copy-of-pilates-private-class"
+  ],
+  "locations": [
+   "Jalan Mertanadi 22xx"
+  ],
+  "staff": [
+   "Faz"
+  ],
+  "schedule": {
+   "durations": [
+    {
+     "minutes": 55
+    }
+   ],
+   "sessionDurations": [
+    55
+   ],
+   "timeBetweenSessions": 5
+  }
+ },
+ {
+  "name": "Bowen Technique Session",
+  "tagLine": "Free your body with Bowen Technique",
+  "description": "Bowen Therapy is a series of specific moves which challenge the soft tissues of the body. This releases the congestion trapped within nerves and muscles, stimulates the energy flow while at the same time, relieving pain and inflammation in the body. Its powerful positive effects on nerves, muscle and connective tissue (can) provide long lasting relief from pain and misalignment in the simplest and gentlest of manners.",
+  "type": "APPOINTMENT",
+  "defaultCapacity": 1,
+  "hidden": false,
+  "sortOrder": 2,
+  "createdDate": "2022-07-30T10:12:25.215Z",
+  "updatedDate": "2026-10-18T02:23:57.331Z",
+  "price": {
+   "value": "1200000",
+   "currency": "IDR"
+  },
+  "paymentOptions": {
+   "online": false,
+   "inPerson": true,
+   "deposit": false,
+   "pricingPlan": false
+  },
+  "onlineBooking": {
+   "enabled": true,
+   "requireManualApproval": true
+  },
+  "image": {
+   "id": "72d608_ca9559a62dfe4e85aa781a8b9b9a71be~mv2.jpg",
+   "url": "72d608_ca9559a62dfe4e85aa781a8b9b9a71be~mv2.jpg",
+   "height": 266,
+   "width": 311,
+   "filename": "72d608_ca9559a62dfe4e85aa781a8b9b9a71be~mv2.jpg"
+  },
+  "category": "OUR OFFERINGS",
+  "urls": {
+   "servicePage": {
+    "relativePath": "/service-page/bowen-technique-session",
+    "url": "https://www.theartofbody.com/service-page/bowen-technique-session"
+   },
+   "bookingPage": {
+    "relativePath": "/booking-calendar/bowen-technique-session",
+    "url": "https://www.theartofbody.com/booking-calendar/bowen-technique-session"
+   },
+   "calendarPage": {
+    "relativePath": "/booking-calendar/bowen-technique-session",
+    "url": "https://www.theartofbody.com/booking-calendar/bowen-technique-session"
+   }
+  },
+  "slugs": [
+   "bowen-technique-session",
+   "bowen-technique-session",
+   "acu-facial"
+  ],
+  "locations": [
+   "Jalan Mertanadi"
+  ],
+  "staff": [
+   "Faz"
+  ],
+  "schedule": {
+   "durations": [
+    {
+     "minutes": 55
+    }
+   ],
+   "sessionDurations": [
+    55
+   ],
+   "timeBetweenSessions": 5
+  }
+ },
+ {
+  "name": "Personal Training",
+  "tagLine": "Bespoke Fitness Program",
+  "description": "One on One health coaching and Bespoke Fitness Program.",
+  "type": "APPOINTMENT",
+  "defaultCapacity": 1,
+  "hidden": false,
+  "sortOrder": 3,
+  "createdDate": "2022-07-30T10:12:58.952Z",
+  "updatedDate": "2026-10-02T17:35:24.894Z",
+  "price": {
+   "value": "800000",
+   "currency": "IDR"
+  },
+  "paymentOptions": {
+   "online": false,
+   "inPerson": true,
+   "deposit": false,
+   "pricingPlan": false
+  },
+  "onlineBooking": {
+   "enabled": true,
+   "requireManualApproval": true
+  },
+  "image": {
+   "id": "72d608_c7492261a4dd44829842a6ed6a6235ae~mv2.jpg",
+   "url": "72d608_c7492261a4dd44829842a6ed6a6235ae~mv2.jpg",
+   "height": 987,
+   "width": 1500,
+   "filename": "72d608_c7492261a4dd44829842a6ed6a6235ae~mv2.jpg"
+  },
+  "category": "OUR OFFERINGS",
+  "urls": {
+   "servicePage": {
+    "relativePath": "/service-page/personal-training",
+    "url": "https://www.theartofbody.com/service-page/personal-training"
+   },
+   "bookingPage": {
+    "relativePath": "/booking-calendar/personal-training",
+    "url": "https://www.theartofbody.com/booking-calendar/personal-training"
+   },
+   "calendarPage": {
+    "relativePath": "/booking-calendar/personal-training",
+    "url": "https://www.theartofbody.com/booking-calendar/personal-training"
+   }
+  },
+  "slugs": [
+   "personal-training",
+   "personal-training",
+   "therapeutic-massage"
+  ],
+  "locations": [
+   "Jalan Mertanadi"
+  ],
+  "staff": [
+   "Faz"
+  ],
+  "schedule": {
+   "durations": [
+    {
+     "minutes": 55
+    }
+   ],
+   "sessionDurations": [
+    55
+   ],
+   "timeBetweenSessions": 5
+  }
+ }
+]

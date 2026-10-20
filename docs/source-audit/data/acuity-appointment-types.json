@@ -1,0 +1,82 @@
+[
+ {
+  "category": "Back specialist session",
+  "name": "Back To Health Session",
+  "description": "For people who have specific issues with back, neck, shoulder, pelvis or any other physical restrictions.\nInjury prevention and specialisation.",
+  "duration": 55,
+  "price": "65.00",
+  "currency": null,
+  "active": true,
+  "type": "service",
+  "calendarIDs": [
+   3761560
+  ],
+  "paddingAfter": 0,
+  "addonIDs": [],
+  "private": false
+ },
+ {
+  "category": "Conultation",
+  "name": "Consultation",
+  "description": "Initial Consultation to ascertain current status, how I can help and therapeutic direction.",
+  "duration": 55,
+  "price": "65.00",
+  "currency": null,
+  "active": true,
+  "type": "service",
+  "calendarIDs": [
+   3761560
+  ],
+  "paddingAfter": 0,
+  "addonIDs": [],
+  "private": false
+ },
+ {
+  "category": "Private Pilates Class",
+  "name": "Private Pilates Class Online",
+  "description": "",
+  "duration": 55,
+  "price": "65.00",
+  "currency": null,
+  "active": true,
+  "type": "service",
+  "calendarIDs": [
+   3761560
+  ],
+  "paddingAfter": 0,
+  "addonIDs": [],
+  "private": false
+ },
+ {
+  "category": "Private Pilates Class",
+  "name": "Private Pilates Studio Class",
+  "description": "",
+  "duration": 55,
+  "price": "680,000.00",
+  "currency": null,
+  "active": true,
+  "type": "service",
+  "calendarIDs": [
+   3761560
+  ],
+  "paddingAfter": 0,
+  "addonIDs": [],
+  "private": false
+ },
+ {
+  "category": "Private Pilates Class",
+  "name": "Private Pilates Studio Class 3 x pack",
+  "description": "",
+  "duration": 165,
+  "price": "1,890,000.00",
+  "currency": null,
+  "active": true,
+  "type": "service",
+  "calendarIDs": [
+   3761560
+  ],
+  "paddingAfter": 0,
+  "addonIDs": [],
+  "private": false
+ }
+]

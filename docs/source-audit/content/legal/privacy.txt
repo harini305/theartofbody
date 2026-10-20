@@ -1,0 +1,185 @@
+SOURCE PAGE: https://www.theartofbody.com/privacy
+EMBED (iframe) URL: https://www-theartofbody-com.filesusr.com/html/72d608_1f4c385473d3cca0ecc6cfc74b83f59d.html
+CAPTURED: 2026-10-19 (HTML tags stripped; text otherwise verbatim)
+----------------------------------------------------------------------
+The Art of Body
+
+    Privacy Policy
+
+    Last Updated: December 10, 2024
+
+At The Art of Body, we take your privacy seriously. This Privacy Policy explains how we collect, use, protect, and share your personal information when you use our studio services in Seminyak, Bali, or our digital wellness product, MNDBDY.FIT.
+
+1. Information We Collect
+
+1.1 Studio Services Information
+
+Personal Information:
+
+    Name and contact details (email, phone number)
+
+    Date of birth and age
+
+    Emergency contact information
+
+    Payment information
+
+Health Information:
+
+    Medical history and current health conditions
+
+    Injuries, surgeries, or physical limitations
+
+    Medications and allergies
+
+    Treatment notes and progress records
+
+1.2 MNDBDY.FIT Digital Product Information
+
+Account Information:
+
+    Email address
+
+    Name
+
+    Password (encrypted)
+
+    Payment information (processed by payment providers)
+
+Usage Information:
+
+    Practice sessions completed
+
+    Discipline preferences
+
+    Session history and progress tracking
+
+    Device information and IP address
+
+2. How We Use Your Information
+
+2.1 Studio Services
+
+We use your information to:
+
+    Provide safe and effective treatments
+
+    Customize treatments based on your health status
+
+    Manage appointments and send reminders
+
+    Process payments for services
+
+    Maintain treatment records and track progress
+
+2.2 MNDBDY.FIT Digital Product
+
+We use your information to:
+
+    Provide and maintain the service
+
+    Process your membership payment
+
+    Personalize your morning practice sessions
+
+    Track your progress and preferences
+
+    Improve our service based on usage patterns
+
+3. Information Sharing
+
+We do not sell your personal information. We only share your information with:
+
+3.1 Service Providers
+
+Payment Processors:
+
+    Paddle (for MNDBDY.FIT global payments and VAT handling)
+
+    Xendit (for Southeast Asia payments)
+
+    Coinbase Commerce (for cryptocurrency payments)
+
+Technology Providers:
+
+    Netlify (frontend hosting)
+
+    Railway (backend hosting)
+
+    SendGrid (transactional emails)
+
+3.2 Legal Requirements
+
+We may disclose your information if required by law, court order, or government regulation.
+
+4. Data Storage and Security
+
+Storage: Your data is stored securely on servers with database storage on PostgreSQL.
+
+Security Measures:
+
+    Encrypted password storage
+
+    HTTPS encryption for all data transmission
+
+    Secure database with access controls
+
+    Regular security updates and monitoring
+
+Data Retention: We retain health records for 7 years as required by Indonesian healthcare regulations. MNDBDY.FIT account information is retained for the lifetime of your membership.
+
+5. Your Rights and Choices
+
+You have the right to:
+
+    Access: Request a copy of your personal data
+
+    Correction: Update or correct your account information
+
+    Deletion: Request deletion of your account
+
+    Export: Request an export of your data
+
+    Opt-out: Unsubscribe from marketing emails
+
+To exercise these rights: privacy@theartofbody.com
+
+6. EU Users - GDPR Rights
+
+If you are located in the European Union, you have additional rights under GDPR including rights to access, rectification, erasure, restriction, portability, and objection to processing.
+
+7. California Users - CCPA Rights
+
+If you are a California resident, you have rights to know what personal information is collected, delete personal information, and opt-out of sale (we don't sell data).
+
+8. International Data Transfers
+
+The Art of Body operates from Bali, Indonesia. If you access our services from outside Indonesia, your information will be transferred to and processed in Indonesia. We comply with applicable data protection laws including Indonesian regulations, GDPR principles, and CCPA requirements.
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last Updated" date. Your continued use after changes constitutes acceptance.
+
+10. Contact Us
+
+Data Protection Inquiries:
+
+Email: privacy@theartofbody.com
+
+General Contact:
+
+The Art of Body
+
+Seminyak, Bali, Indonesia
+
+Email: info@theartofbody.com
+
+Website: www.theartofbody.com
+
+MNDBDY.FIT Support:
+
+Email: support@mndbdy.fit
+
+Website: www.mndbdy.fit
+
+    © 2024 The Art of Body. Established 2009. All rights reserved.

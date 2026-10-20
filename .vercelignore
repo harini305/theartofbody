@@ -1,0 +1,4 @@
+# Only the app is needed to build and serve the site.
+docs
+scripts
+README.md

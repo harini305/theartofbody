@@ -1,0 +1,61 @@
+SOURCE: https://www.theartofbody.com/booking-calendar/personal-training
+VIEWPORT: desktop (1440x900)
+CAPTURED: 2026-10-19 via headless Chrome; visible innerText of #PAGES_CONTAINER (header/footer excluded)
+----------------------------------------------------------------------
+Schedule your service
+
+Check out our availability and book the date and time that works for you
+
+Select a Date and Time
+Time zone:
+Central Indonesia Time (WITA)
+October
+2026
+Sun
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+Availability for Monday, 19 October
+
+No availability
+
+Check Next Availability
+Service Details
+Personal Training
+More details
+Request to Book

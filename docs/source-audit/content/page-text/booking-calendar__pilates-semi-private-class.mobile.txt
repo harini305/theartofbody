@@ -1,0 +1,47 @@
+SOURCE: https://www.theartofbody.com/booking-calendar/pilates-semi-private-class
+VIEWPORT: mobile (390x844 iPhone UA (Wix renders 320px mobile layout))
+CAPTURED: 2026-10-19 via headless Chrome; visible innerText of #PAGES_CONTAINER (header/footer excluded)
+----------------------------------------------------------------------
+Schedule your service
+
+Check out our availability and book the date and time that works for you
+
+Select a Date and Time
+Time zone:
+Central Indonesia Time (WITA)
+Central Indonesia Time (WITA)
+India Standard Time (GMT+5:30)
+October 2026
+Sun	Mon	Tue	Wed	Thu	Fri	Sat
+
+18
+Sunday, October 18, 2026
+
+19
+Monday, October 19, 2026
+
+20
+Tuesday, October 20, 2026
+
+21
+Wednesday, October 21, 2026
+
+22
+Thursday, October 22, 2026
+
+23
+Friday, October 23, 2026
+
+24
+Saturday, October 24, 2026
+Week starting Sunday, October 18
+
+Availability for Monday, 19 October
+
+No availability
+
+Check Next Availability
+Service Details
+Pilates Semi-private Class
+More details
+Request to Book

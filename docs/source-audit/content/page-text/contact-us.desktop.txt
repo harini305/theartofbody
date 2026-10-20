@@ -1,0 +1,15 @@
+SOURCE: https://www.theartofbody.com/contact-us
+VIEWPORT: desktop (1440x900)
+CAPTURED: 2026-10-19 via headless Chrome; visible innerText of #PAGES_CONTAINER (header/footer excluded)
+----------------------------------------------------------------------
+Contact Us
+
+We'd love to be in touch to help answer any questions you may have about our services, packages and bookings, and general approach to holistic wellness. 
+
+Please fill out the contact form below and we'll be in touch as soon as possible. 
+
+Thanks so much for stopping by, we value you and your wellbeing! 
+
+-Faz and the The Art of Body team
+
+Send

@@ -1,0 +1,35 @@
+SOURCE: https://www.theartofbody.com/plans-pricing
+VIEWPORT: desktop (1440x900)
+CAPTURED: 2026-10-19 via headless Chrome; visible innerText of #PAGES_CONTAINER (header/footer excluded)
+----------------------------------------------------------------------
+Choose your pricing plan
+3x Semi Private package
+Rp1.100.000
+1.100.000Rp
+3x Group classes
+Valid for 3 months
+Buy Now
+10x Semi Private Pilates Classes Package
+Rp3.600.000
+3.600.000Rp
+10x Group Pilates Classes
+Valid for 3 months
+Buy Now
+3x Private Pilates Classes Package
+Rp2.050.000
+2.050.000Rp
+3x Private Pilates Classes
+Valid for 3 months
+Buy Now
+10x Private Pilates Classes Package
+Rp6.750.000
+6.750.000Rp
+10x Private Pilates Classes
+Valid for 3 months
+Buy Now
+3x Bowen Technique Sessions Package
+Rp3.500.000
+3.500.000Rp
+3x Bowen Technique sessions
+Valid for 3 months
+Buy Now

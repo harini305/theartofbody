@@ -1,0 +1,74 @@
+SOURCE: https://www.theartofbody.com/our-services
+VIEWPORT: mobile (390x844 iPhone UA (Wix renders 320px mobile layout))
+CAPTURED: 2026-10-19 via headless Chrome; visible innerText of #PAGES_CONTAINER (header/footer excluded)
+----------------------------------------------------------------------
+INSPIRED BY CREATING
+ENERGY WITH THE BODY
+Pilates. Personal Training. Holistic Healing. 
+Book a Class
+Contact Us
+
+Our Wellness Style
+
+THE ART OF BODY is a wellness and holistic fitness hub focused on personalised health and wellness. Our tailor-made programs are carefully crafted to each individual who is determined to feel and look better.
+
+Each class or holistic healing session is a unique Art and what you make it – but we’re here to guide and support you and your Body in a beautiful, contemporary studio.
+
+Our Offerings
+
+BODY WELLNESS
+
+Pilates
+
+We are a STOTT trained professional Pilates Studio in Bali. Since 2009 we have catered to small group or private settings to enrich our client's wellbeing. Learn more about our Pilates.
+
+Customised Sessions
+
+In this Personal training session, you can mix and match any of the services we have and get the customised support you need. 
+
+CHOOSE FROM
+
+Intro to Pilates
+
+Professional Initial Consultation (55mins)
+
+Private Pilates (55mins)
+
+Couples Pilates (55mins)
+
+Semi-Private Pilates (55mins)
+
+Group Mat Pilates (55mins)
+
+MIX + MATCH EXAMPLES
+
+HITT Training + TRX
+
+Personal Training + streatching
+
+BOOK A BODY WELLNESS CLASS
+
+Book a Session
+Contact Us
+
+HOLISTIC THERAPY
+
+Bowen
+
+Book a Bowen Treatment
+
+Bowen Therapy is the perfect complement to and active fitness regime. The technique makes a series of gentle but precise soft tissue movements made on very precise junctions of muscle, ligaments and bone, of nerve pathways, of blood and lymph circulation facilitators to promote energy flow. Learn more about Bowen Therapy.
+
+HOLIDAY RETREATS AND PACKAGES
+
+Tailor-made Retreats
+
+Inquire about our retreats
+
+Fitness studio fun meets pilates retreat getaway! Here at Art of Body, we deliver it all. We have a love for helping clients transform their bodies and minds and have developed fitness retreats in Bali just for you. Learn more about personalised Pilates Retreats.
+
+Holiday Packages
+
+Inquire about our packages
+
+Experience the magic of a custom holiday getaway of your dreams to the magical island of Bali. With our expert care,  we help guide you through a personalised Bali holiday with the perfect mix of fun, relaxation, pamper and results.  Learn more about our mix and max packages.

@@ -1,0 +1,188 @@
+/* Design tokens — brand palette from docs/source-audit/05-brand-reference.md.
+   Sage and coral fail contrast as text colours, so they are only used as fills,
+   rules and accents behind deep-teal text. */
+:root {
+  --cream: #fdf6eb;
+  --cream-deep: #f6ecdc;
+  --sand: #e3d8c5;
+  --sand-deep: #d6c8b0;
+  --teal: #0e393a;
+  --teal-ink: #10393a;
+  --teal-soft: #1d4f50;
+  --charcoal: #404041;
+  --muted: #5d5b57; /* 6.3:1 on cream */
+  --sage: #a2ac87;
+  --sage-soft: #cfd5bf;
+  --blush: #eec9b2;
+  --blush-soft: #f6e2d4;
+  --coral: #ff715e;
+  --white: #ffffff;
+
+  --font-serif: var(--font-bodoni), "Didot", "Bodoni 72", Georgia, serif;
+  --font-sans: var(--font-jost), "Avenir Next", "Avenir", system-ui, sans-serif;
+
+  --step--1: 0.875rem;
+  --step-0: 1.0625rem;
+  --step-1: 1.25rem;
+  --step-2: clamp(1.4rem, 1.2rem + 0.8vw, 1.75rem);
+  --step-3: clamp(1.7rem, 1.3rem + 1.5vw, 2.5rem);
+  --step-4: clamp(2.2rem, 1.5rem + 2.8vw, 3.75rem);
+  --step-5: clamp(2.6rem, 1.5rem + 4.4vw, 5.25rem);
+
+  --gutter: clamp(1.25rem, 4.5vw, 4rem);
+  --container: 88rem;
+  --narrow: 44rem;
+  --section: clamp(1.75rem, 3.2vw, 2.75rem);
+  --radius: 2px;
+  --header-h: 76px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--header-h) + 1rem);
+}
+
+body {
+  margin: 0;
+  background: var(--cream);
+  color: var(--charcoal);
+  font-family: var(--font-sans);
+  font-size: var(--step-0);
+  font-weight: 400;
+  line-height: 1.7;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: clip;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+a,
+button,
+summary {
+  -webkit-tap-highlight-color: transparent;
+}
+
+img,
+video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  color: var(--teal);
+  font-family: var(--font-serif);
+  font-weight: 400;
+  line-height: 1.12;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: var(--step-4);
+}
+h2 {
+  font-size: var(--step-3);
+}
+h3 {
+  font-size: var(--step-2);
+}
+h4 {
+  font-family: var(--font-sans);
+  font-size: var(--step-0);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+p {
+  margin: 0 0 1em;
+  max-width: 68ch;
+  text-wrap: pretty;
+}
+p:last-child {
+  margin-bottom: 0;
+}
+
+a {
+  color: var(--teal);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+a:hover {
+  text-decoration-color: var(--coral);
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+.on-dark :focus-visible,
+.on-dark:focus-visible {
+  outline-color: var(--blush);
+}
+
+::selection {
+  background: var(--blush);
+  color: var(--teal);
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  z-index: 100;
+  padding: 0.75rem 1.25rem;
+  background: var(--teal);
+  color: var(--cream);
+  font-weight: 500;
+}
+.skip-link:focus {
+  top: 1rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
