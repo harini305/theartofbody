@@ -67,18 +67,9 @@ export default function TestimonialSlider({ items }) {
               <path d="M21 6H2M6.5 1L1.5 6l5 5" fill="none" stroke="currentColor" strokeWidth="1.3" />
             </svg>
           </button>
-          <ol className="slider__dots">
-            {items.map((t, i) => (
-              <li key={t.id}>
-                <button
-                  type="button"
-                  aria-label={`Show testimonial ${i + 1}: ${t.name}`}
-                  aria-current={i === index ? "true" : undefined}
-                  onClick={() => go(i)}
-                />
-              </li>
-            ))}
-          </ol>
+          <p className="slider__count" aria-hidden="true">
+            {index + 1} / {items.length}
+          </p>
           <button type="button" className="slider__arrow" onClick={() => go(index + 1)} aria-label="Next testimonial">
             <svg width="22" height="12" viewBox="0 0 22 12" aria-hidden="true">
               <path d="M1 6h19M15.5 1l5 5-5 5" fill="none" stroke="currentColor" strokeWidth="1.3" />

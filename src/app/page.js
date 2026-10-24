@@ -43,7 +43,7 @@ export default function Home() {
   return (
     <>
       <section className="home-hero">
-        <div className="container home-hero__grid">
+        <div className="home-hero__grid">
           <div className="home-hero__text">
             <h1 data-hero-item>
               <span className="h1-sub">Therapeutic Pilates &amp; bodywork in Seminyak, Bali</span>
@@ -66,13 +66,13 @@ export default function Home() {
             </Actions>
           </div>
           <div className="home-hero__media" data-hero-item>
-            <div className="home-hero__circle">
+            <div className="home-hero__photo">
               <div data-parallax className="home-hero__parallax">
                 <Img
                   name="studio-interior"
                   alt="The Art of Body studio: wooden floor, Pilates equipment and tall windows onto tropical plants"
                   priority
-                  sizes="(min-width: 900px) 46vw, 88vw"
+                  sizes="(min-width: 900px) 50vw, 100vw"
                   position="58% 50%"
                 />
               </div>
